@@ -1,7 +1,20 @@
-<<<<<<< HEAD
+
 # library_perpus
 
-A new Flutter project.
-=======
-# perpustakaan
->>>>>>> 7cfda8b2a287ea3b153bf2b9fd8a71fb3ce588b6
+# Book Page
+
+<div style="display: "flex">
+  <img height="700" src="assets/screenshots/BookPage1.png">
+  <img height="700" src="assets/screenshots/BookPage2.png">
+</div>
+
+# Book Details
+
+<img height="700" src="assets/screenshots/Book Details.png"/>
+
+# Add and Update
+
+<div style="display: "flex">
+  <img height="700" src="assets/screenshots/Add.png">
+  <img height="700" src="assets/screenshots/Update.png">
+</div>
